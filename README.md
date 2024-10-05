@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3o7btTfSt29FrJKZH2/giphy.gif" width="100%">
 </h1>
 <h2 align="center">
-  Bienvenido al Nexo Digital de [Tu Nombre]
+  Bienvenido al Nexo Digital de SergioGala
 </h2>
 <p align="center">
   <a href="https://github.com/tuusuario">
