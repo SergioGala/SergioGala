@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00BFFF&height=300&section=header&text=Tu%20Nombre&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Arquitecto%20Digital%20%7C%20Visionario%20Tech%20%7C%20Creador%20de%20Futuros&descAlignY=51&descAlign=50&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00BFFF&height=300&section=header&text=Sergio Gala&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Arquitecto%20Digital%20%7C%20Visionario%20Tech%20%7C%20Creador%20de%20Futuros&descAlignY=51&descAlign=50&fontColor=FFFFFF" />
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;Arquitecto+de+Sueños+Digitales;Explorador+del+Ciberespacio;Creador+de+Realidades+Virtuales" alt="Typing SVG" />
