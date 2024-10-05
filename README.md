@@ -158,21 +158,44 @@
   </a>
 </div>
 <br>
-<h3 align="center">💡 Citas Inspiradoras 💡</h3>
+<h2 align="center">🌌 Generador de Sabiduría Cuántica 🌌</h2>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=25&duration=3000&pause=300&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+Iniciando+secuencia+de+extracción+cuántica...;%3E+Escaneando+el+multiverso...;%3E+Analizando+fluctuaciones+dimensionales...;%3E+Sincronizando+patrones+neuronales...;%3E+Decodificando+sabiduría+interdimensional..." alt="Quantum Wisdom Extraction">
+</div>
+<br>
+<div align="center">
+  <pre>
+      /\
+     /  \
+    /    \
+   /      \
+  /        \
+ /__      __\
+    |    |
+    |    |
+    |    |
+    |    |
+    |____|
+    |    |
+    |    |
+  </pre>
+</div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Quantum Quote">
 </div>
 <br>
 <div align="center">
   <details>
-    <summary>Ver más citas inspiradoras</summary>
+    <summary>🔄 Recalibrar Extractor Cuántico</summary>
     <br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote 2" />
-    <br><br>
-    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default" alt="Quote 3" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Alternate Universe Quote">
   </details>
 </div>
-<p align="center"><i>Las citas se actualizan cada vez que se visita el perfil.</i></p>
+<div align="center">
+  <h4>Origen de la Cita:</h4>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Universo+42-B;Dimensión+Espejo;Línea+Temporal+Alfa;Realidad+Cuántica+9¾" alt="Quote Origin">
+</div>
+<p align="center"><i>El Generador de Sabiduría Cuántica extrae conocimiento de infinitas realidades. Cada visita revela nuevos secretos del multiverso.</i></p>
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:FF6B00&height=200&section=footer&text=Gracias%20por%20Explorar%20Mi%20Universo%20Digital&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%">
