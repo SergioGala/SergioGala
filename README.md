@@ -93,13 +93,34 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/sergiogala11/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiogala11&repo=proyecto1&theme=react&bg_color=ffffff&title_color=1E3A8A&icon_color=FF6B00&hide_border=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/sergiogala11/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiogala11&repo=proyecto2&theme=react&bg_color=ffffff&title_color=1E3A8A&icon_color=FF6B00&hide_border=true&show_icons=true" />
+  <a href="https://github.com/SergioGala/RiffRider">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioGala&repo=RiffRider&theme=react&bg_color=ffffff&title_color=1E3A8A&icon_color=FF6B00&hide_border=true&show_icons=true" />
   </a>
 </div>
+
+<p align="center">
+  <strong>RiffRider</strong> - Una innovadora aplicación para amantes de la música 🎸🎶
+</p>
+<p align="center">
+  RiffRider es una plataforma revolucionaria que combina la pasión por la música con la tecnología de vanguardia. 
+  Permite a los usuarios explorar, crear y compartir experiencias musicales únicas.
+</p>
+
+<p align="center">
+  <strong>Características principales:</strong>
+</p>
+<p align="center">
+  🎼 Generación de riffs personalizados<br>
+  🔍 Exploración de estilos musicales<br>
+  🤝 Colaboración en tiempo real con otros músicos<br>
+  🏆 Sistema de desafíos y logros musicales
+</p>
+
+<p align="center">
+  <a href="https://github.com/SergioGala/RiffRider">
+    <img src="https://img.shields.io/badge/-Explorar%20Proyecto-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Proyecto" />
+  </a>
+</p>
 
 <!-- Línea separadora -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
