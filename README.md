@@ -1,34 +1,14 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100">
-  Bienvenidos al Multiverso Tecnológico
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100">
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00BFFF&height=300&section=header&text=Tu%20Nombre&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Arquitecto%20Digital%20%7C%20Visionario%20Tech%20%7C%20Creador%20de%20Futuros&descAlignY=51&descAlign=50&fontColor=FFFFFF" />
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;Arquitecto+de+Sueños+Digitales;Explorador+del+Ciberespacio;Creador+de+Realidades+Virtuales" alt="Typing SVG" />
 </div>
 <br>
 <div align="center">
-  <!-- Imagen SVG personalizada con efecto de pulso -->
-  <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .pulse {
-        animation: pulse 2s infinite;
-      }
-      @keyframes pulse {
-        0% { transform: scale(1); }
-        50% { transform: scale(1.1); }
-        100% { transform: scale(1); }
-      }
-    </style>
-    <circle cx="150" cy="150" r="100" fill="#0A0A0A" stroke="#00FF00" stroke-width="4" class="pulse"/>
-    <text x="150" y="160" font-family="Arial" font-size="18" fill="#00FF00" text-anchor="middle">TU NOMBRE</text>
-  </svg>
-</div>
-<br>
-<div align="center">
   <img src="https://github.com/TuUsuario/TuUsuario/blob/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones">
 </div>
-<h2 align="center">🚀 Superportatl de Tecnologías 🚀</h2>
+<h2 align="center">🚀 Superportal de Tecnologías 🚀</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
   <br><br>
@@ -79,7 +59,6 @@
 </div>
 <h2 align="center">💬 Cita Inspiradora 💬</h2>
 <div align="center">
-  <!-- API de citas inspiradoras -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita Aleatoria">
 </div>
 <br>
