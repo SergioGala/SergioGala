@@ -158,10 +158,21 @@
   </a>
 </div>
 <br>
+<h3 align="center">💡 Citas Inspiradoras 💡</h3>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote 1" />
 </div>
-
+<br>
+<div align="center">
+  <details>
+    <summary>Ver más citas inspiradoras</summary>
+    <br>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote 2" />
+    <br><br>
+    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default" alt="Quote 3" />
+  </details>
+</div>
+<p align="center"><i>Las citas se actualizan cada vez que se visita el perfil.</i></p>
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:FF6B00&height=200&section=footer&text=Gracias%20por%20Explorar%20Mi%20Universo%20Digital&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%">
