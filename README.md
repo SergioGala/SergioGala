@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Soy+Sergio+Gala;Arquitecto+de+Soluciones+Digitales;Creador+de+Experiencias+Innovadoras" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Soy+Sergio+Gala;Arquitecto+de+Soluciones+Digitales;Creador+de+Experiencias+Innovadoras" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -47,29 +47,29 @@
 </div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=435&lines=📊+Estadísticas+del+Multiverso+📊" alt="Estadísticas del Multiverso" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=1000&color=0047AB&center=true&vCenter=true&repeat=false&width=435&lines=📊+Estadísticas+del+Multiverso+📊" alt="Estadísticas del Multiverso" />
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiogala11&background=0D1117&stroke=FF6B00&ring=FF4500&fire=3B82F6&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF6B00&sideLabels=FF4500&dates=3B82F6&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiogala11&background=0D1117&stroke=FF6B00&ring=FF4500&fire=3B82F6&currStreakNum=0047AB&sideNums=0047AB&currStreakLabel=FF6B00&sideLabels=FF4500&dates=3B82F6&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiogala11&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiogala11&show_icons=true&count_private=true&hide_border=true&title_color=0047AB&icon_color=FF4500&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogala11&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogala11&layout=compact&hide_border=true&title_color=0047AB&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sergiogala11&theme=juicyfresh&no-frame=true&no-bg=true&column=7&title_color=FFD700&icon_color=FF4500" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sergiogala11&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 <h2 align="center">
