@@ -1,64 +1,45 @@
+<!-- Header ASCII Art -->
+Copy  _____                     _____                 _                   
+ |  __ \                   |  __ \               | |                  
+ | |  | | _____   _____  __| |  | | _____   _____| | ___  _ __   ___ 
+ | |  | |/ _ \ \ / / _ \/ _` |  | |/ _ \ \ / / __| |/ _ \| '_ \ / _ \
+ | |__| |  __/\ V /  __/ (_| | |__| |  __/\ V /\__ \ | (_) | |_) |  __/
+ |_____/ \___| \_/ \___|\__,_|_____/ \___| \_/ |___/_|\___/| .__/ \___|
+                                                           | |        
+                                                           |_|
 <div align="center">
-  <img src="https://i.imgur.com/cOSxrNh.gif" alt="Banner Animado" width="100%">
+  <img src="https://fontmeme.com/permalink/240315/cd38b0a3fa530dac7ea60c1fad97dbc0.png" alt="Nombre del Desarrollador" width="100%">
 </div>
+<!-- Animación de Matrix -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=600&height=100&lines=Bienvenido+a+mi+Universo+Digital;Donde+el+C%C3%B3digo+Cobra+Vida;Explora%2C+Innova%2C+Crea" alt="Typing SVG" />
+  <img src="https://i.imgur.com/2M0Ixqj.gif" width="100%">
 </div>
-Copy _______ _     _  ______ _______ ______  _____  ______   _______      _______ _______      ______  _____
- |______  \___/  |_____/ |______ |     \   |   |     \ |______      |_____| |______      |_____/ |     |
- |______ _/   \_ |    \_ |______ |_____/ __|__ |_____/ |______      |     | |______      |    \_ |_____|
+<!-- Sección de Habilidades -->
+<h2 align="center">🚀 Arsenal Tecnológico 🚀</h2>
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
-<h1 align="center">🚀 Mis Superpoderes Tecnológicos 🚀</h1>
+<!-- Visualización de Proyectos -->
+<h2 align="center">🌟 Proyectos Estelares 🌟</h2>
 <div align="center">
-  <img src="https://i.imgur.com/YCw47Dm.gif" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,git&theme=dark" />
+  <img src="https://via.placeholder.com/150x150.png?text=Proyecto+1" width="150" height="150" />
+  <img src="https://via.placeholder.com/150x150.png?text=Proyecto+2" width="150" height="150" />
+  <img src="https://via.placeholder.com/150x150.png?text=Proyecto+3" width="150" height="150" />
 </div>
+<!-- Estadísticas de GitHub -->
+<h2 align="center">📊 Estadísticas Cósmicas 📊</h2>
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-<h1 align="center">🌌 Proyectos Estelares 🌌</h1>
+<!-- Gráfico de Contribuciones -->
 <div align="center">
-  <a href="https://github.com/tuusuario/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=midnight-purple" />
-  </a>
-  <a href="https://github.com/tuusuario/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=midnight-purple" />
-  </a>
+  <img src="https://github-contribution-graph.ez4o.com/?username=tuusuario&theme=dracula" alt="Contribution Graph" width="100%">
 </div>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h1 align="center">📊 Mis Estadísticas Cósmicas 📊</h1>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=midnight-purple&hide_border=true" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&theme=darkhub&no-frame=true&no-bg=true&column=7" />
-</div>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h1 align="center">🎵 Sintonía Actual 🎵</h1>
-<div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
-</div>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h1 align="center">🌐 Conéctate Conmigo 🌐</h1>
-<div align="center">
-  <a href="https://github.com/tuusuario">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/tuusuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+<!-- Footer -->
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
