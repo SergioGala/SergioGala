@@ -1,93 +1,67 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=Sistema%20Neural%20Activado&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30" width="100%">
+  <img src="https://i.imgur.com/cOSxrNh.gif" alt="Banner Animado" width="100%">
 </div>
-<h1 align="center">Terminal de [Tu_Nombre] v3.0</h1>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Estado-Online-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ubicación-Matrix-red?style=for-the-badge&logo=the-algorithms&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Nivel-Legendario-gold?style=for-the-badge&logo=codewars&logoColor=white"></a>
-</p>
-<pre align="center">
-  <code>
-    > Iniciando secuencia de arranque...
-    > Cargando módulos cerebrales...
-    > Activando interfaces neuronales...
-    > Sincronizando con la Matrix...
-    > Sistema listo. Bienvenido, usuario.
-  </code>
-</pre>
-<details>
-<summary>📂 Abrir Archivo: perfil.dat</summary>
-<br>
-jsonCopy{
-  "nombre": "[Tu_Nombre]",
-  "alias": "CyberDev_Extraordinaire",
-  "clase": "Arquitecto de Realidades Digitales",
-  "nivel": 99,
-  "habilidades": [
-    "Manipulación del Código Fuente",
-    "Hackeo de la Realidad",
-    "Doblaje del Espacio-Tiempo Digital"
-  ],
-  "misiones_completadas": 1337,
-  "reputación": "Leyenda del Ciberespacio"
-}
-</details>
-<details>
-<summary>🖥️ Ejecutar: scan_habilidades.exe</summary>
-<br>
 <div align="center">
-HabilidadNivelBarra de ProgresoJavaScript95Show ImagePython90Show ImageReact88Show ImageNode.js92Show ImageAI/ML85Show Image
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=600&height=100&lines=Bienvenido+a+mi+Universo+Digital;Donde+el+C%C3%B3digo+Cobra+Vida;Explora%2C+Innova%2C+Crea" alt="Typing SVG" />
 </div>
-</details>
-<details>
-<summary>🌐 Conexiones Neuronales Activas</summary>
-<br>
+Copy _______ _     _  ______ _______ ______  _____  ______   _______      _______ _______      ______  _____
+ |______  \___/  |_____/ |______ |     \   |   |     \ |______      |_____| |______      |_____/ |     |
+ |______ _/   \_ |    \_ |______ |_____/ __|__ |_____/ |______      |     | |______      |    \_ |_____|
 <div align="center">
-  <a href="https://github.com/tuusuario"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-</details>
-<details>
-<summary>📊 Análisis de Rendimiento</summary>
-<br>
+<h1 align="center">🚀 Mis Superpoderes Tecnológicos 🚀</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&hide_border=true&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="Estadísticas de GitHub">
+  <img src="https://i.imgur.com/YCw47Dm.gif" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,git&theme=dark" />
 </div>
-<br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" alt="GitHub Streak">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-</details>
-<details>
-<summary>🏆 Logros Desbloqueados</summary>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofeos de GitHub">
-</div>
-</details>
-<details>
-<summary>📡 Transmisiones Recientes</summary>
-<br>
+<h1 align="center">🌌 Proyectos Estelares 🌌</h1>
 <div align="center">
   <a href="https://github.com/tuusuario/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=radical&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=midnight-purple" />
   </a>
   <a href="https://github.com/tuusuario/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=radical&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=midnight-purple" />
   </a>
 </div>
-</details>
-<br>
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tuusuariospotify&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&bar_color=FF00FF" alt="Spotify">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-<br>
+<h1 align="center">📊 Mis Estadísticas Cósmicas 📊</h1>
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=midnight-purple&hide_border=true" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&theme=darkhub&no-frame=true&no-bg=true&column=7" />
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=100&section=footer" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h1 align="center">🎵 Sintonía Actual 🎵</h1>
+<div align="center">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h1 align="center">🌐 Conéctate Conmigo 🌐</h1>
+<div align="center">
+  <a href="https://github.com/tuusuario">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tuusuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
