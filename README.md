@@ -127,27 +127,21 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiogala11&theme=light&hide_border=true&stroke=1E3A8A&ring=FF6B00&fire=FF6B00&currStreakNum=1E3A8A&sideNums=1E3A8A&currStreakLabel=1E3A8A&sideLabels=1E3A8A&dates=1E3A8A" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SergioGala&show_icons=true&count_private=true&hide_border=true&title_color=1E3A8A&icon_color=FF6B00&text_color=1E3A8A&bg_color=ffffff" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGala&layout=compact&hide_border=true&title_color=1E3A8A&text_color=1E3A8A&bg_color=ffffff" />
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiogala11&show_icons=true&count_private=true&hide_border=true&title_color=1E3A8A&icon_color=FF6B00&text_color=1E3A8A&bg_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioGala&theme=light&hide_border=true&stroke=1E3A8A&ring=FF6B00&fire=FF6B00&currStreakNum=1E3A8A&sideNums=1E3A8A&currStreakLabel=1E3A8A&sideLabels=1E3A8A&dates=1E3A8A" alt="GitHub Streak" />
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogala11&layout=compact&hide_border=true&title_color=1E3A8A&text_color=1E3A8A&bg_color=ffffff" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SergioGala&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sergiogala11&theme=juicyfresh&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioGala&bg_color=ffffff&color=1E3A8A&line=FF6B00&point=1E3A8A&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
 <!-- Línea separadora -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
