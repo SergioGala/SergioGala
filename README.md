@@ -91,37 +91,33 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=435&lines=🌟+Proyectos+Estelares+🌟" alt="Proyectos Estelares" />
 </h2>
-
 <div align="center">
   <a href="https://github.com/SergioGala/RiffRider">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioGala&repo=RiffRider&theme=react&bg_color=ffffff&title_color=1E3A8A&icon_color=FF6B00&hide_border=true&show_icons=true" />
   </a>
 </div>
-
 <p align="center">
-  <strong>RiffRider</strong> - Una innovadora aplicación para amantes de la música 🎸🎶
+  <strong>RiffRider</strong> - Revolucionando la experiencia musical en ambientes festivos 🎧🎉
 </p>
 <p align="center">
-  RiffRider es una plataforma revolucionaria que combina la pasión por la música con la tecnología de vanguardia. 
-  Permite a los usuarios explorar, crear y compartir experiencias musicales únicas.
+  RiffRider es una aplicación innovadora diseñada para mejorar la experiencia de DJ y la atmósfera en entornos festivos. 
+  Combina sugerencias de música inteligentes con visualizaciones de audio en tiempo real.
 </p>
-
 <p align="center">
   <strong>Características principales:</strong>
 </p>
 <p align="center">
-  🎼 Generación de riffs personalizados<br>
-  🔍 Exploración de estilos musicales<br>
-  🤝 Colaboración en tiempo real con otros músicos<br>
-  🏆 Sistema de desafíos y logros musicales
+  🎵 Sugerencias de canciones para DJs en tiempo real<br>
+  🔊 Integración con la API de Spotify para streaming de música<br>
+  🌈 Ambient Screen: Visualización dinámica de audio con Web Audio API y WebGL<br>
+  🎚️ Análisis de frecuencias de audio para modificar gradientes de ondas<br>
+  🔥 Mejora la atmósfera en ambientes festivos con sincronización audio-visual
 </p>
-
 <p align="center">
   <a href="https://github.com/SergioGala/RiffRider">
     <img src="https://img.shields.io/badge/-Explorar%20Proyecto-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Proyecto" />
   </a>
 </p>
-
 <!-- Línea separadora -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
