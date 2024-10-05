@@ -123,7 +123,7 @@
 
 <!-- Estadísticas -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&repeat=false&width=435&lines=📊+Estadísticas+del+Multiverso+📊" alt="Stats del Multiverso" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=1&pause=1000&color=1E3A8A&center=true&vCenter=true&repeat=false&width=435&lines=📊+Stats+del+Multiverso+📊" alt="Stats del Multiverso" />
 </h2>
 
 <div align="center">
